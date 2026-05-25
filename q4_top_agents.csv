@@ -1,0 +1,13 @@
+agent_id,call_outcome,cnt
+AGT003,connected,18
+AGT003,no_answer,14
+AGT003,callback_requested,9
+AGT003,dropped,8
+AGT008,connected,15
+AGT008,no_answer,11
+AGT008,dropped,10
+AGT008,callback_requested,9
+AGT009,no_answer,16
+AGT009,callback_requested,13
+AGT009,connected,10
+AGT009,dropped,9
