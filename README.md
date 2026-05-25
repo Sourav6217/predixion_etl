@@ -4,6 +4,11 @@ End-to-end data engineering pipeline that ingests raw, noisy voice-agent call lo
 cleans and transforms them, loads them into SQLite, and answers 5 business questions.
 
 ---
+## 🌐 Live App
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predixionai.streamlit.app/)
+
+---
 
 ## Project Structure
 
